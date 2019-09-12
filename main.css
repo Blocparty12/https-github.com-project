@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    margin:50px;
+    padding:15px;
+}
+
+h1, h2 {
+    font-family: 'Source Code Pro', monospace;
+    color:darkseagreen;
+}
+
+.mainheader {
+    font-size: 100px;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
